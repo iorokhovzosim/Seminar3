@@ -32,6 +32,12 @@
 
 ## Ссылки
 
+ Чтобы добавить ссылку в текст, необходимо написать следующее []() 
+
+ Например:
+
+ [Моя нода Nym](https://mixnet.explorers.guru/mixnode/CUsj2NGHvj6cYGy1J2jM68oo1Cmm9XPzrkFavSpGw3hz)
+
 ## Таблицы
 
 ## Цитаты
